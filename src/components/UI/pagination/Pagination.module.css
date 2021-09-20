@@ -1,0 +1,16 @@
+.page__wrapper {
+    margin-top:30px;
+    display: flex;
+    justify-content: center;
+}
+
+.page {
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid #21098f;
+    cursor: pointer;
+}
+.page__current{
+    border: 1px solid #901234;
+    background-color: #ff8f10;
+}
